@@ -1,0 +1,9 @@
+p{
+    text-align: center;
+}
+div[class~="Text"], div[class~="Radio__content"], div[class~="Subhead"], div[class~="Caption"]{
+    text-align: left;
+}
+div[class~="center"]{
+    text-align: center !important;
+}
